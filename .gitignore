@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Private data (DO NOT UPLOAD)
+data/faces/
+data/students/
+attendance/
+model/
+
+# Python cache
+__pycache__/
+*.pyc
