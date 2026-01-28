@@ -1,3 +1,6 @@
+# Biometric_Attendance_4
+Face recognition based attendance system using Python &amp; OpenCV
+
 📸 Biometric Attendance System (Face Recognition)
 
 A face recognition–based attendance system built using Python and OpenCV.
